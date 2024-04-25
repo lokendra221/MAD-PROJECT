@@ -1,0 +1,2 @@
+# MAD-PROJECT
+news app
